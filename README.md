@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KwikSpiff
 - 👀 I’m interested in Gaming, Programming, and Working Out
-- 🌱 I’m currently learning Software Development, Data Structures, Game Design and Operating Systems
+- 🌱 I’m currently in a System Administrator Internship
 - 💞️ I’m looking to collaborate on many coding languages like JAVA, HTML, CSS, C++, Python
 - 📫 How to reach me? Just message me :)
 <!---
