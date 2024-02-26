@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @KwikSpiff
-- 👀 I’m interested in Gaming, Programming, and Working Out
-- 🌱 I’m currently in a System Administrator Internship
-- 💞️ I’m looking to collaborate on many coding languages like JAVA, HTML, CSS, C++, Python
-- 📫 How to reach me? Just message me :)
-<!---
-KwikSpiff/KwikSpiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! As a senior in college pursuing a Bachelor's degree in Information Technology, I have passionately immersed myself in the world of IT, specializing in systems administration. My role as a System Admin intern has enabled me to hone my technical skills, focusing on maintaining and optimizing network systems to ensure seamless operations. Beyond my academic and professional endeavors in IT, I serve as a Platoon Leader in the Army Reserves, holding the rank of 2LT. This leadership position has instilled in me a profound sense of discipline, teamwork, and a commitment to excellence. Additionally, my involvement as a Data Management Technician for a community college has allowed me to apply my IT skills in an educational setting, where I contribute to the effective management and security of data systems. My unique blend of military leadership, academic pursuit, and technical expertise in IT positions me as a versatile and dynamic individual, ready to tackle challenges and contribute positively to any team or project.
